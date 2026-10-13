@@ -1,0 +1,7 @@
+s = list(map(str,input()))
+sum = ''.join(sorted(s))
+print(sum)
+
+# learnt how to use ''.join , it is used to join the characters or items inside a list, with or without a space, for example if we leave a space in between the ' ' part then it is going to leave a space between the characters, but if we dont then it will return it to as the items joined together with no space.
+
+#learnt how to use the reveresed function, it revereses the string or the list, from back to front, so last item, becomes first item.
